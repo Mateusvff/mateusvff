@@ -29,9 +29,10 @@
 ### My IDEs/Editors
 ![VSCode Badge](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![SublimeText Badge](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![AndroidStudio Badge](https://img.shields.io/badge/Android_Studio-01DE7A.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+<br>
 ![Eclipse Badge](https://img.shields.io/badge/Eclipse-3E4D78.svg?style=for-the-badge&logo=eclipse&logoColor=white)
+![AndroidStudio Badge](https://img.shields.io/badge/Android_Studio-01DE7A.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![SublimeText Badge](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 <br>
 
 ### Cloud
