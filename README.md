@@ -1,7 +1,6 @@
 <h1 align="center"> Olá, seja bem vindo! 👋 </h1><img align="right" src="https://github.com/Rubenscode/Rubenscode/blob/main/img/computer.png" width="350"/>
 
 * Software Engineering student at Universidade de Brasília (UnB) 💻
-<br> 
 
 ### My Programming Languages skills
 ![Java Badge](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white?logoWidth=40)
