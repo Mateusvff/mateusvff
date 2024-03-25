@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Mateus Franco! 👋 </h1><img align="right" src="https://github.com/Rubenscode/Rubenscode/blob/main/img/computer.png" width="350"/>
 
 * Software Engineering student at Universidade de Brasília (UnB) 💻
-* Java Developer Intern at Sicoob
+* Java Developer at Sicoob
 
 ### My Programming Languages skills
 ![Java Badge](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white?logoWidth=40)
